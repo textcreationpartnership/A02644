@@ -35,9 +35,18 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-An anatomie of the metamorpho-sed Aiax Wherein by a tripartite method is plainly, openly, and demons
+
 #####Body#####
-An anatomie of the metamorpho-sed Aiax Wherein by a tripartite method is plainly, openly, and demons
+
+1. To M. E. S. Esquier.
+
+1. This is Don AIAX-house, of the new fashion, all in sunder,
+that a workeman may see what he hath to do.
+
+1. Here is the same all put together, that the workeman
+may see if it be well.
+BVt pah:All this is sweetned with this one sentence. Humani nihil à me alienum puto.
+what haue I tal
 **Types of content**
 
   * There are 20 **verse** lines!
